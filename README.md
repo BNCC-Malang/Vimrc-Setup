@@ -1,6 +1,5 @@
-# Vimrc-Setup
 
-### Install Your Vim On Linux
+# Install Your Vim On Linux
 
 ~ Arch / manjaro based install
 
